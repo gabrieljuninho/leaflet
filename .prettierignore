@@ -1,0 +1,22 @@
+# dependencies
+node_modules
+package.json
+package-lock.json
+
+# next
+.next
+public
+
+# eslint
+eslint.config.js
+
+# prettier
+.prettierrc
+
+# github
+README.md
+
+# typescript
+tsconfig.json
+tsconfig.app.json
+tsconfig.node.json
